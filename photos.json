@@ -1,0 +1,16 @@
+{
+    "photos": [
+        {
+            "url": "C:\Users\User\Downloads\Website\photos\photo1.jpg",
+            "caption": "Our first adventure together!"
+        },
+        {
+            "url": "photos/photo2.jpg",
+            "caption": "The cutest moment ever 💕"
+        },
+        {
+            "url": "photos/photo3.jpg",
+            "caption": "A special memory 🥰"
+        }
+    ]
+}
